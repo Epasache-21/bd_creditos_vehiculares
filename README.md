@@ -41,3 +41,13 @@ Establecer un flujo eficiente y controlado para la gestión de créditos vehicul
 MODELO ENTIDAD RELACION
 ![image](https://github.com/user-attachments/assets/a5599d50-1ddd-4745-ad2b-ee2c65f3bdbf)
 
+MODELO LOGICO
+
+![bd_creditos_vehiculares_1](https://github.com/user-attachments/assets/38ecaf01-2715-4b24-b3dd-0eaf0bfd6934)
+
+MODELO FISICO
+
+![image](https://github.com/user-attachments/assets/9f9a7fac-d0c6-4a78-b86d-87b8a99ce074)
+
+
+
