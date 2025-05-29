@@ -38,6 +38,13 @@ Garantía / Prenda Vehicular: Seguridad legal del crédito otorgado.
 🎯 Objetivo del Proceso:
 Establecer un flujo eficiente y controlado para la gestión de créditos vehiculares, asegurando trazabilidad desde la captación del cliente hasta el desembolso y la formalización de la garantía. Esto permite a la entidad financiera minimizar el riesgo y mejorar la experiencia del cliente.
 
+GRUPO 2:
+- DURAND GALINDO, JOSUE YAMIL
+- LLERENA DIAZ, DIANA MARIELLA
+- PACHAS LUIS, FELIPE LARICHA
+- PASACHE MENDOZA, EDUARDHO JAIR
+- SANCHEZ VARGAS, EVELIN FIORELLA
+
 MODELO ENTIDAD RELACION
 ![image](https://github.com/user-attachments/assets/a5599d50-1ddd-4745-ad2b-ee2c65f3bdbf)
 
